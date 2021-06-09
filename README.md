@@ -1,4 +1,4 @@
-# Spatial_plotting
+# spatial_plotting_in_panel
 to plot spatial maps in multiple panels using python
 user should follow this link to install basemap: https://www.lfd.uci.edu/~gohlke/pythonlibs/
 
